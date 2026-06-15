@@ -2,8 +2,8 @@
 
 ## 📌 Project Overview
 
-This project analyzes the causes of high cart abandonment
-in an e-commerce environment.
+This project identifies the root cause of high cart abandonment
+and provides actionable recommendations to improve conversion.
 
 The goal was to identify the key drivers of low conversion
 and recommend improvements based on data.
