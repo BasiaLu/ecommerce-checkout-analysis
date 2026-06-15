@@ -2,8 +2,9 @@
 
 ## 📌 Project Overview
 
+
 This project identifies the root cause of high cart abandonment
-and provides actionable recommendations to improve conversion.
+and shows how improving checkout UX can increase conversion and revenue.
 
 The goal was to identify the key drivers of low conversion
 and recommend improvements based on data.
