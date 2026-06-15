@@ -22,15 +22,21 @@ and recommend improvements based on data.
 • Cart abandonment: ~53%  
 • Revenue: 14.36M PLN  
 
-Users reach checkout but do not complete purchase. 
-Despite stable traffic, a large number of users
-do not complete the purchase.
+A significant number of users add products to cart,
+but do not complete the purchase.
+
+---
+
+## 🎯 Goal
+
+Identify the root cause of low conversion
+and propose data-driven improvements.
 
 ---
 
 ## 🧠 Approach
 
-The analysis was structured around hypothesis testing:
+The analysis was based on hypothesis testing:
 
 • traffic impact ❌  
 • product offering ❌  
@@ -67,7 +73,7 @@ The analysis was structured around hypothesis testing:
 
 ## 💻 SQL Analysis
 
-Example:
+Example query used in the analysis:
 
 ```sql
 SELECT 
