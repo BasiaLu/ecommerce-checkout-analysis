@@ -43,5 +43,5 @@ SELECT
 FROM sessions s
 LEFT JOIN orders o ON s.user_id = o.user_id;
 
-👩‍💻 Author
+## 👩‍💻 Author
 Barbara Łukaszewska
