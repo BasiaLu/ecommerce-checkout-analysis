@@ -1,5 +1,10 @@
 # 🛒 E-commerce Checkout Analysis
 
+
+## 📊 Dashboard Preview
+
+![Dashboard](wp6432037.jpg)
+
 ## 📌 Project Overview
 
 This project analyzes the causes of high cart abandonment
