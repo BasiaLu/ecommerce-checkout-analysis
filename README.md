@@ -12,7 +12,7 @@ and recommend improvements based on data.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](wp6432037.jpg)
+![Dashboard](1.png)
 
 ---
 
