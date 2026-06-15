@@ -19,7 +19,7 @@ particularly payment issues (~58% of abandonment).
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/dashboard1.png)
 
 ---
 
