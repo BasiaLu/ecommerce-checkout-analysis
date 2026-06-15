@@ -12,7 +12,7 @@ and recommend improvements based on data.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](1.png)
+![Dashboard](screenshots/1.png)
 
 ---
 
