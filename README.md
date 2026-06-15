@@ -47,9 +47,11 @@ LEFT JOIN orders o ON s.user_id = o.user_id;
 
 ## 👩‍💻 Author
 
-**Barbara Łukaszewska**  
-Data Analyst | Power BI | SQL
+Barbara Łukaszewska
+📊 Data Analyst | Power BI | SQL
+📍 Warszawa
 
+---
 
 
 
