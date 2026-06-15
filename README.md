@@ -2,12 +2,17 @@
 
 ## 📌 Project Overview
 
+The goal was to identify the key drivers of low conversion
+and recommend improvements based on data.
 
 This project identifies the root cause of high cart abandonment
 and shows how improving checkout UX can increase conversion and revenue.
 
-The goal was to identify the key drivers of low conversion
-and recommend improvements based on data.
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/dashboard1.png)
 
 ---
 
@@ -15,12 +20,6 @@ and recommend improvements based on data.
 
 The main cause of conversion drop is related to the checkout process,
 particularly payment issues (~58% of abandonment).
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard1.png)
 
 ---
 
