@@ -45,13 +45,14 @@ LEFT JOIN orders o ON s.user_id = o.user_id;
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 About the Author
 
-Barbara Łukaszewska
-📊 Data Analyst | Power BI | SQL
-📍 Warszawa
+**Barbara Łukaszewska**  
+📊 Data Analyst | Power BI | SQL  
+📍 Warszawa  
 
----
-
+This project was created as part of a BI analysis case study,
+focused on identifying the root cause of conversion drop
+in an e-commerce environment.
 
 
