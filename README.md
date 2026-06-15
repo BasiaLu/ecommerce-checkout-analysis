@@ -1,14 +1,18 @@
 # 🛒 E-commerce Checkout Analysis
 
-
-## 📊 Dashboard Preview
-
-![Dashboard](wp6432037.jpg)
-
 ## 📌 Project Overview
 
 This project analyzes the causes of high cart abandonment
 in an e-commerce environment.
+
+The goal was to identify the key drivers of low conversion
+and recommend improvements based on data.
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](wp6432037.jpg)
 
 ---
 
@@ -18,23 +22,46 @@ in an e-commerce environment.
 • Cart abandonment: ~53%  
 • Revenue: 14.36M PLN  
 
-Users reach checkout but do not complete purchase.
+Users reach checkout but do not complete purchase. 
+Despite stable traffic, a large number of users
+do not complete the purchase.
+
+---
+
+## 🧠 Approach
+
+The analysis was structured around hypothesis testing:
+
+• traffic impact ❌  
+• product offering ❌  
+• user segments ❌  
+• checkout UX ✅  
 
 ---
 
 ## 🔍 Key Findings
 
-• Main issue: checkout UX  
-• Payments account for ~58% of drop  
-• High error rate and loading time affect users  
+• The main issue occurs in the checkout process  
+• Payment problems account for ~58% of drop-off  
+• High error rate (12%) impacts transactions  
+• Slow loading time (~3.5s) reduces conversion  
 
 ---
 
 ## 💡 Recommendations
 
-• Simplify checkout  
+• Simplify checkout flow  
 • Improve payment UX  
 • Run A/B tests  
+• Monitor technical errors  
+
+---
+
+## 📈 Expected Impact
+
+• +2–3 percentage points in conversion  
+• -10–20% reduction in abandonment  
+• Increased revenue without more traffic  
 
 ---
 
