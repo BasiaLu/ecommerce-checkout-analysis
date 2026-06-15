@@ -21,7 +21,7 @@ and recommend improvements based on data.
 ## 🚨 Key Insight
 
 The main cause of conversion drop is related to the checkout process,
-particularly payment issues (~58% of abandonment).
+particularly payment issues (~53% of abandonment).
 
 ---
 
