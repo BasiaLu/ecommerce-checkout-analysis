@@ -14,7 +14,14 @@ and recommend improvements based on data.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/2.png)
+![Dashboard](screenshots/3.png)
+![Dashboard](screenshots/4.png)
+![Dashboard](screenshots/5.png)
+![Dashboard](screenshots/6.png)
+![Dashboard](screenshots/7.png)
+![Dashboard](screenshots/8.png)
 
 ---
 
